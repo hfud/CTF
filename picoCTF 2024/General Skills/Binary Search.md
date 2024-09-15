@@ -10,11 +10,11 @@
 3. The program will randomly choose a new number each time you connect. You can always try again, but you should start your binary search over from the beginning - try around 500. Can you think of why?
 
 # Solution:
-- Guess a random number between 1 and 1000.
+1. Guess a random number between 1 and 1000.
 
 ![alt text](image.png)
 
-- Use Binary Search Algorithm to find the correct number.
+2. Use Binary Search Algorithm to find the correct number.
 
   ![alt text](image-1.png)
 
