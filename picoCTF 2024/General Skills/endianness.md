@@ -1,6 +1,6 @@
 # Author: Nana Ama Atombo-Sackey
 
-# Description
+# Description:
 - Know of little and big endian?
 - nc titan.picoctf.net 56059
 
