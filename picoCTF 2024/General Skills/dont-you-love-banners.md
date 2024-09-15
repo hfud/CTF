@@ -15,7 +15,8 @@
 ![alt text](image-11.png)
 
 - Look around
-![alt text](image-12.png)
+
+    ![alt text](image-12.png)
 
 - script.py
 ![alt text](image-13.png)
@@ -26,7 +27,8 @@
 ![alt text](image-15.png)
 
 - Disconnect and reconnect to the server
-![alt text](image-14.png)
+
+    ![alt text](image-14.png)
 
 # Flag:
 picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}
