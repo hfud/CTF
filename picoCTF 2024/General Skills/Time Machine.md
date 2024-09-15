@@ -15,7 +15,7 @@
 
 2. Open **.git** folder (remember to turn on Show Hidden Files option).
 
-![alt text](image-3.png)
+![alt text](image-6.png)
 
 3. Flag is in the COMMIT_EDITMSG file.
 
