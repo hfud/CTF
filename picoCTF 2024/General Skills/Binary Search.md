@@ -11,11 +11,12 @@
 
 # Solution:
 - Guess a random number between 1 and 1000.
+
 ![alt text](image.png)
 
 - Use Binary Search Algorithm to find the correct number.
 
-![alt text](image-1.png)
+        ![alt text](image-1.png)
 
 # Flag: 
 picoCTF{g00d_gu355_ee8225d0}

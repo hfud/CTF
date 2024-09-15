@@ -9,6 +9,17 @@
 3. When committing a file with git, a message can (and should) be included.
 
 # Solution:
+- Message:
+
+![alt text](image-2.png)
+
+- Open **.git** folder (remember to turn on Show Hidden Files option).
+
+![alt text](image-3.png)
+
+- Flag is in the COMMIT_EDITMSG file.
+
+![alt text](image-4.png)
 
 # Flag:
 picoCTF{t1m3m@ch1n3_e8c98b3a}
