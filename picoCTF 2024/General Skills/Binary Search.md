@@ -14,6 +14,7 @@
 ![alt text](image.png)
 
 - Use Binary Search Algorithm to find the correct number.
+
 ![alt text](image-1.png)
 
 # Flag: 
