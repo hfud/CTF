@@ -9,19 +9,19 @@
 # Solution:
 - enc_flag
 
-![img](image.png)
+![img](Images/image.png)
 
 - Decode it from Base64
 
-![img](image-1.png)
+![img](Images/image-1.png)
 
 - Decode one more time (just the part in the single quotation mark)
 
-![img](image-2.png)
+![img](Images/image-2.png)
 
 - It looks like the flag now so I use Caesar cipher decode
 
-![img](image-3.png)
+![img](Images/image-3.png)
 
 # Flag:
 picoCTF{caesar_d3cr9pt3d_86de32d2}
