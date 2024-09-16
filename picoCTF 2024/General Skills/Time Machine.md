@@ -11,15 +11,15 @@
 # Solution:
 1. Message:
 
-![alt text](image-2.png)
+![img](Images/image-2.png)
 
 2. Open **.git** folder (remember to turn on Show Hidden Files option).
 
-![alt text](image-6.png)
+![img](Images/image-6.png)
 
 3. Flag is in the COMMIT_EDITMSG file.
 
-![alt text](image-4.png)
+![img](Images/image-4.png)
 
 # Flag:
 picoCTF{t1m3m@ch1n3_e8c98b3a}

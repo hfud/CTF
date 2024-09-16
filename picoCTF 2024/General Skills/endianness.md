@@ -12,7 +12,7 @@
 - Little Endian: the least significant byte (LSB) is stored at the lowest memory address.
 - Big Endian: the most significant byte (MSB) is stored at the lowest memory address 
 
-![alt text](image-3.png)
+![img](Images/image-3.png)
 
 # Flag:
 picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}

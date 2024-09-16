@@ -10,7 +10,8 @@
 
 # Solution:
 - The log is too large for the terminal, so i write it to **log.txt** with the **'git log > log.txt'** command and scroll to the end.
-![alt text](image-9.png)
+
+![img](Images/image-9.png)
 
 # Flag:
 picoCTF{@sk_th3_1nt3rn_81e716ff}

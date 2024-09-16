@@ -12,7 +12,7 @@
 4. Remember, passwords are hidden when typed into the shell
 
 # Solution:
-![alt text](image-5.png)
+![img](Images/image-5.png)
 
 # Flag:
 picoCTF{s3cur3_c0nn3ct10n_8306c99d}

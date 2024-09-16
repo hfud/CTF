@@ -12,7 +12,7 @@
 - git reflog: see the information recorded in the reflogs.
 - git checkout e720dc2: back to the 'create flag' commit.
 
-![alt text](image-7.png)
+![img](Images/image-7.png)
 
 # Flag:
 picoCTF{s@n1t1z3_7246792d}
